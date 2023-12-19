@@ -1,5 +1,10 @@
 # PSOperations
 
+# IMPORTANT
+
+This is an obsolete way to perform asynchronous work. We need this fork to fix a compile issue on Xcode 15.x.
+
+
 [![codebeat badge](https://codebeat.co/badges/5a8fa0e4-178b-499b-9947-98bf69013b7f)](https://codebeat.co/projects/github-com-pluralsight-psoperations) [![Build Status](https://app.bitrise.io/app/e1a3e3a8d5e6ef42/status.svg?token=4Mixz35ECEfGcWB8vCPpig)](https://app.bitrise.io/app/e1a3e3a8d5e6ef42)
 
 PSOperations is a framework that leverages the power of NSOperation and NSOperationQueue. It enables you to use operations more easily in all parts of your project.
